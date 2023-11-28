@@ -1,4 +1,4 @@
 # example-repo-AI
-foo
 
-#Hello World
+
+# Hello World
